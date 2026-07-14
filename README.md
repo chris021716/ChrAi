@@ -1,7 +1,7 @@
 # ChrAi
 ChrAi is a local AI assistant for Lumina Shaders/GPTShaders, powered by Gemma 3 through Ollama. No API key required.
 
-ChrAi v0.3 Prototype Installation Guide
+ChrAi v0.1 Prototype Installation Guide
 Requirements
 Windows 10 or Windows 11
 Python 3.10 or newer
@@ -30,7 +30,7 @@ Run:
 python app.py
 ChrAi will start and display:
 Hello! I'm ChrAi.
-ChrAi v0.3
+ChrAi v0.1
 Features
 Local AI powered by Gemma 3
 Conversation memory
